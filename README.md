@@ -53,7 +53,7 @@ I'm a Business Analytics professional passionate about transforming data into ac
 ## 🤝 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/hanish-roshan-r-b2b7a3119)  
 📧 workhanish@gmail.com  
-📍 Bristol, UK (Willing to Relocate)
+📍 Bristol, UK 
 
 *"Turning complex data into strategic business decisions, one insight at a time"* ✨
 
