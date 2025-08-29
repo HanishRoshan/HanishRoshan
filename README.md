@@ -61,27 +61,27 @@ I bridge the gap between raw data and business strategy. My work involves turnin
 
 ### 🔥 Featured Repositories
 
-**[Revolutionizing Marketing Approaches with Viewer Data-Driven Content Automation](link-to-repo)**
+**[Revolutionizing Marketing Approaches with Viewer Data-Driven Content Automation](https://github.com/HanishRoshan/-Revolutionizing-Marketing-Approaches-with-Viewer-Data-Driven-Content-Automation)**
 - Analyzed consumer responses to targeted advertisements across 104 participants
 - Achieved 85% post-purchase ad effectiveness retention using Python, SQL, and statistical modeling
 - Delivered demographic segmentation insights showing 30% higher engagement among younger audiences
 
-**[Amazon Product Review Sentiment Analysis](link-to-repo)**
+**[Amazon Product Review Sentiment Analysis]((https://github.com/HanishRoshan/Sentiment-Analysis-on-Amazon-Product-Reviews))**
 - Scraped and analyzed 1400+ product reviews using Python, VADER, and LDA topic modeling
 - Achieved 95% sentiment classification accuracy across Electronics and Home & Kitchen categories
 - Identified quality-focused strategies over discount-driven approaches for improved customer retention
 
-**[India's International Trade Analysis (1988-2021)](link-to-repo)**
+**[India's International Trade Analysis (1988-2021)](https://github.com/HanishRoshan/India-s-Role-in-International-Trade-A-Comprehensive-Analysis-of-Import-Export-Data-1988-2021)**
 - Processed 33 years of trade data using Python, revealing India's consistent trade surplus trends
 - Built linear regression models forecasting exports growth from $465B to $529B through 2026
 - Discovered strong negative correlations (-0.7 to -0.9) between tariff rates and trade volumes
 
-**[Dynamic Pricing Strategies Using Artificial Intelligence](link-to-repo)**
+**[Dynamic Pricing Strategies Using Artificial Intelligence](https://github.com/HanishRoshan/CaseStudy-Dynamic-Pricing-Strategies-Using-Artificial-Intelligence)**
 - Analyzed AI-driven pricing models across e-commerce platforms for revenue optimization
 - Developed comprehensive policy recommendations addressing GDPR and CCPA compliance
 - Proposed ethical frameworks balancing profit maximization with consumer welfare
 
-**[Divvy Bike Sharing Analysis - Chicago 2017](link-to-repo)**
+**[Divvy Bike Sharing Analysis - Chicago 2017](https://github.com/HanishRoshan/Divvy-Bike-Sharing-Program-in-Chicago-A-Detailed-Analysis-of-2017-Data-quarter-1-and-2-)**
 - Analyzed Chicago's bike-sharing system using trip records and station data from 2017 Q1-Q2
 - Identified 81,909 stations with insufficient capacity and optimal maintenance scheduling
 - Generated actionable insights for infrastructure optimization and resource allocation
